@@ -1,9 +1,9 @@
-# O2OCryptoMart
+# O2OCryptoCashMart
 本儲存庫用來儲存專案中額外的檔案
 
 ## **安裝這個APP的步驟:**
 ### 步驟一: 安裝Blue Wallet
-請參考Blue Wallet於[Git hub上的文件安裝](https://github.com/BlueWallet/BlueWallet "Blue Wallet Git Hub首頁")Blue Wallet，本專案使用的版本為6.2.6(6.2.5)[6.2.6(6.2.5)](https://github.com/BlueWallet/BlueWallet/releases/tag/v6.2.5 "Blue Wallet6.2.5下載頁面")  
+請參考Blue Wallet於[Git hub上的文件](https://github.com/BlueWallet/BlueWallet "Blue Wallet Git Hub首頁")安裝Blue Wallet，本專案使用的版本為[6.2.6(6.2.5)](https://github.com/BlueWallet/BlueWallet/releases/tag/v6.2.5 "Blue Wallet6.2.5下載頁面")  
 可安裝在任意的路徑，接下來本文稱它為**BW工作路徑**  
 
 ### 步驟二: 為Blue Wallet安裝本專案額外元件
