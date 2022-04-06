@@ -1,5 +1,8 @@
 # O2OCryptoCashMart
 本儲存庫用來儲存專案中額外的檔案
+![登入圖](https://github.com/2ndHG/O2OCryptoCashMart/blob/main/Image4GitHub/Screenshot_1646051386.png)
+![首頁圖](https://github.com/2ndHG/O2OCryptoCashMart/blob/main/Image4GitHub/Screenshot_1646962941.png)
+  
 
 ## **安裝這個APP的步驟:**
 ### 步驟一: 安裝Blue Wallet
